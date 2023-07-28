@@ -1,0 +1,20 @@
+C:\Users\ARNEL ZURBANO PC\Documents\Nica\2ndYear\OOP1\vs GUI\Project_Zurbano\bin\Debug\Project_Zurbano.exe.config
+C:\Users\ARNEL ZURBANO PC\Documents\Nica\2ndYear\OOP1\vs GUI\Project_Zurbano\bin\Debug\Project_Zurbano.exe
+C:\Users\ARNEL ZURBANO PC\Documents\Nica\2ndYear\OOP1\vs GUI\Project_Zurbano\bin\Debug\Project_Zurbano.pdb
+C:\Users\ARNEL ZURBANO PC\Documents\Nica\2ndYear\OOP1\vs GUI\Project_Zurbano\obj\Debug\Project_Zurbano.csprojAssemblyReference.cache
+C:\Users\ARNEL ZURBANO PC\Documents\Nica\2ndYear\OOP1\vs GUI\Project_Zurbano\obj\Debug\Project_Zurbano.Form1.resources
+C:\Users\ARNEL ZURBANO PC\Documents\Nica\2ndYear\OOP1\vs GUI\Project_Zurbano\obj\Debug\Project_Zurbano.Properties.Resources.resources
+C:\Users\ARNEL ZURBANO PC\Documents\Nica\2ndYear\OOP1\vs GUI\Project_Zurbano\obj\Debug\Project_Zurbano.csproj.GenerateResource.cache
+C:\Users\ARNEL ZURBANO PC\Documents\Nica\2ndYear\OOP1\vs GUI\Project_Zurbano\obj\Debug\Project_Zurbano.csproj.CoreCompileInputs.cache
+C:\Users\ARNEL ZURBANO PC\Documents\Nica\2ndYear\OOP1\vs GUI\Project_Zurbano\obj\Debug\Project_Zurbano.exe
+C:\Users\ARNEL ZURBANO PC\Documents\Nica\2ndYear\OOP1\vs GUI\Project_Zurbano\obj\Debug\Project_Zurbano.pdb
+D:\Nica\PORTOLIO\ITD 102 L - Object Oriented Programming 1L\Project_Zurbano\bin\Debug\Project_Zurbano.exe.config
+D:\Nica\PORTOLIO\ITD 102 L - Object Oriented Programming 1L\Project_Zurbano\bin\Debug\Project_Zurbano.exe
+D:\Nica\PORTOLIO\ITD 102 L - Object Oriented Programming 1L\Project_Zurbano\bin\Debug\Project_Zurbano.pdb
+D:\Nica\PORTOLIO\ITD 102 L - Object Oriented Programming 1L\Project_Zurbano\obj\Debug\Project_Zurbano.csproj.AssemblyReference.cache
+D:\Nica\PORTOLIO\ITD 102 L - Object Oriented Programming 1L\Project_Zurbano\obj\Debug\Project_Zurbano.Form1.resources
+D:\Nica\PORTOLIO\ITD 102 L - Object Oriented Programming 1L\Project_Zurbano\obj\Debug\Project_Zurbano.Properties.Resources.resources
+D:\Nica\PORTOLIO\ITD 102 L - Object Oriented Programming 1L\Project_Zurbano\obj\Debug\Project_Zurbano.csproj.GenerateResource.cache
+D:\Nica\PORTOLIO\ITD 102 L - Object Oriented Programming 1L\Project_Zurbano\obj\Debug\Project_Zurbano.csproj.CoreCompileInputs.cache
+D:\Nica\PORTOLIO\ITD 102 L - Object Oriented Programming 1L\Project_Zurbano\obj\Debug\Project_Zurbano.exe
+D:\Nica\PORTOLIO\ITD 102 L - Object Oriented Programming 1L\Project_Zurbano\obj\Debug\Project_Zurbano.pdb
